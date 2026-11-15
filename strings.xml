@@ -1,4 +1,0 @@
-<resources>
-    <string name="app_name">Unlock Video Player</string>
-    <string name="accessibility_description">Plays your selected unlock video briefly after the phone is unlocked.</string>
-</resources>
